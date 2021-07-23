@@ -8,4 +8,4 @@
 
 ----
 
-## The data files we used are called "AMZN.csv," "us_states_covid19_daily.csv."
+## The data files we used are called "AMZN.csv," "us_states_covid19_daily.csv," and "sp_data."
